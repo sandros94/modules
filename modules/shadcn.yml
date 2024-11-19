@@ -9,11 +9,11 @@ learn_more: https://www.shadcn-vue.com/docs/installation/nuxt
 category: UI
 type: 3rd-party
 maintainers:
-  - name: Zernonia
+  - name: zernonia
     github: zernonia
     twitter: zernonia
   - name: Sadegh Barati
     github: sadeghbarati
 compatibility:
-  nuxt: ^3.0.0
+  nuxt: '>=3.0.0'
   requires: {}

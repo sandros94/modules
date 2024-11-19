@@ -9,9 +9,9 @@ learn_more: ''
 category: Ecommerce
 type: community
 maintainers:
-  - name: Florent GIRAUD
+  - name: florent giraud
     github: flozero
     twitter: flozeroo
 compatibility:
-  nuxt: ^2.0.0 || ^3.0.0
+  nuxt: ^2.0.0 || >=3.0.0
   requires: {}

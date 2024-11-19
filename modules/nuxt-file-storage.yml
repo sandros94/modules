@@ -11,8 +11,8 @@ learn_more: https://github.com/nyllre/nuxt-file-storage
 category: Database
 type: 3rd-party
 maintainers:
-  - name: NyllRE
+  - name: Ali Sokkar
     github: NyllRE
 compatibility:
-  nuxt: ^3.0.0
+  nuxt: '>=3.0.0'
   requires: {}
